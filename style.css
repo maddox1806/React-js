@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+body{
+    .kaushan-script-regular {
+        font-family: "Kaushan Script", cursive;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+}
+.Border-rg{
+    border: 2px solid Red;
+}
